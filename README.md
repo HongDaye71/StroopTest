@@ -1,7 +1,9 @@
 ## Stroop Test <br/>
-The Stroop Test is a neuropsychological test extensively used to assess the ability to inhibit cognitive interference<br/>
+In the Stroop task, people simply look at color words, such as blue, red, or green. And they say what color text they saw<br/>
+*The color words printed with two condition (Congruent / Incongruent)
+
 (실험진행방법)
-[Stroop Test Sample Image]
+[Stroop Test Sample Image](https://user-images.githubusercontent.com/81608287/147805546-5a5ec989-b8ef-4207-b039-0d2d4e2138bb.png)
 
 ___
 
